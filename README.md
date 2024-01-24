@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HwT-DB
+- 👋 Hi, I’m @HwT-DB (16/M)
 - 👀 I’m interested in Graphical Programing, Nano electronics, Pentesting, Backend developmend and Low level development
 - 🌱 I’m currently learning x85 ASM, C++, Kotlin and the basics of calculus
 - 💞️ I’m looking to collaborate on ...
