@@ -2,7 +2,7 @@
 - Founder and Owner of the HwT Project
 - 👀 I’m interested in Graphical Programing, Nano electronics, Pentesting, Backend developmend and Low level development
 - 🌱 I’m currently learning x85 ASM, C++, Kotlin and the basics of calculus
-- 📫 How to reach me DC: db_gaming_studios
+- 📫 How to reach me DC: hwt_db
 - ⚡ Fun fact: I am not smart at all, I just know who and where to copy from!
 
 <!---
