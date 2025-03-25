@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @HwT-DB (16/M)
-- Founder and Owner of the HwT Project
-- 👀 I’m interested in Graphical Programing, Nano electronics, Pentesting, Backend developmend and Low level development
-- 🌱 I’m currently learning x86 ASM, C, C++, Kotlin and the basics of calculus
-- 📫 How to reach me DC: hwt_db
-- ⚡ Fun fact: I am not smart at all, I just know who and where to copy from!
+- 👋 Hi, I’m @d.drremai (17/M)
+
 
 <!---
 HwT-DB/HwT-DB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
